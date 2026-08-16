@@ -10,8 +10,8 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 
 | Module                          | Chapter | Topic / Chapter Name                   | Lecture (Date) |
 |---------------------------------|---------|----------------------------------------|---------------|
-| **Module 1: Uncertainty**       | M1C1    | Probability Foundations                | L2 -- L5 (28 Jul -- 04 Aug)     |
-|                                 | M1C2    | Random Variables and Probability Models|               |
+| **Module 1: Uncertainty**       | M1C1    | Probability Foundations                | L3 -- L6 (28 Jul -- 06 Aug)     |
+|                                 | M1C2    | Random Variables and Probability Models| L7 --  (10 Aug -- )              |
 |                                 | M1C3    | Multivariate Probability               |               |
 |                                 | M1C4    | Modeling Extremes                      |               |
 | **Module 2: Statistics**        | M2C1    | Descriptive Statistics                 |               |
@@ -27,6 +27,7 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 | Tutorial   | Topic                           | Date              | 
 |--------------|---------------------------------|-------------------|
 | Tutorial-1 | Foundations of Probability           | 03-Aug-2026 |
+| Tutorial-2 | Total Probability, Bayes', PMF           | 13-Aug-2026 |
 
 
 ## **References**
