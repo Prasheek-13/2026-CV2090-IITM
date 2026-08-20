@@ -28,6 +28,7 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 |--------------|---------------------------------|-------------------|
 | Tutorial-1 | Foundations of Probability           | 03-Aug-2026 |
 | Tutorial-2 | Total Probability, Bayes', PMF           | 13-Aug-2026 |
+| Tutorial-3 | Probability distributions, mean, variance          | 20-Aug-2026 |
 
 
 ## **References**
