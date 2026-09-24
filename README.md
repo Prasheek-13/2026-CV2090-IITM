@@ -30,6 +30,7 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 | Tutorial-2 | Total Probability, Bayes', PMF           | 13-Aug-2026 |
 | Tutorial-3 | Probability distributions, mean, variance          | 20-Aug-2026 |
 | Tutorial-4 | Joint Random Variables          | 07-Sep-2026 |
+| Tutorial-5 | Extreme Value Theory          | 21-Sep-2026 |
 
 
 ## **References**
