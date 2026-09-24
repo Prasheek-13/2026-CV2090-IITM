@@ -13,8 +13,8 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 | **Module 1: Uncertainty**       | M1C1    | Probability Foundations                | L3 -- L6 (28 Jul -- 06 Aug)     |
 |                                 | M1C2    | Random Variables and Probability Models| L7 -- L16 (10 Aug -- 27 Aug)              |
 |                                 | M1C3    | Multivariate Probability               | L17 -- L21 (01 Sep -- 10 Sep)              |
-|                                 | M1C4    | Modeling Extremes                      | L22 --  (17 Sep -- )              |
-| **Module 2: Statistics**        | M2C1    | Descriptive Statistics                 |               |
+|                                 | M1C4    | Modeling Extremes                      | L22 -- L25 (17 Sep -- 22 Sep)              |
+| **Module 2: Statistics**        | M2C1    | Descriptive Statistics                 | L26 -- (24 Sep -- )              |
 |                                 | M2C2    | Statistical Inference                  |               |
 |                                 | M2C3    | Regression & Statistical Learning      |               |
 | **Module 3: Reliability**       | M3C1    | Reliability Analysis                   |               |
