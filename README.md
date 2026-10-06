@@ -6,7 +6,7 @@
 
 This is the main repo for CV 2090, second year undergraduate course at the Department of Civil Engineering, IIT Madras. This repo contains lecture notes, tutorials, and other useful links. The repository will be updated as the course progresses through the semester. 
 
-# Course Modules and Chapters
+## Course Modules and Chapters
 
 | Module                          | Chapter | Topic / Chapter Name                   | Lecture (Date) |
 |---------------------------------|---------|----------------------------------------|---------------|
