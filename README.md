@@ -17,10 +17,9 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 | **Module 2: Statistics**        | M2C1    | Descriptive Statistics                 | L26 -- L28 (24 Sep -- 28 Sep) |
 |                                 | M2C2    | Statistical Inference                  | L29 -- L32 (01 Oct -- 08 Oct) |
 |                                 | M2C3    | Regression & Statistical Learning      | L33 -- L35 (13 Oct -- 23 Oct) |
-| **Module 3: Reliability**       | M3C1    | Reliability Analysis                   | L36 (26 Oct -- )              |
-|                                 | M3C2    | Computational Reliability              |               |
-|                                 | M3C3    | Stochastic Processes                   |               |
-|                                 | M3C4    | Risk-Informed Decision-Making          |               |
+| **Module 3: Reliability**       | M3C1 & M3C2    | Reliability & Computational Reliability                   | L36 -- L39(26 Oct -- 28 Oct)              |
+|                                 | M3C3    | Stochastic Processes                   |  ---             |
+|                                 | M3C4    | Risk-Informed Decision-Making          |  ---          |
 
 ## **Tutorial**
 
@@ -32,7 +31,7 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 | Tutorial-4 | Joint random variables            | 07 Sep |
 | Tutorial-5 | Extreme value theory              | 21 Sep |
 | Tutorial-6 | Parameter estimation and Conf. Int.| 28 Sep |
-| Tutorial-7 | Hypothesis Testing                | 12 Oct |
+| Tutorial-7 | Hypothesis testing                | 12 Oct |
 | Tutorial-8 | Linear regression                 | 22 Oct |
 | Tutorial-9 | Reliability                 | 26 Oct |
 
@@ -53,6 +52,6 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 
 **Recommended Popular Reading (not for the exam material):**
 
-1. Kahneman, D., *Thinking, Fast and Slow*, Penguin Books, 2011. (Selected Chapters)
+1. Kahneman, D., *Thinking, Fast and Slow*, Penguin Books, 2011.
 2. Taleb, N.N., *The Black Swan: The Impact of the Highly Improbable*, 2nd Edition, Random House, 2010.
 3. Silver, N., *The Signal and the Noise: Why So Many Predictions Fail -- but Some Don't*, Penguin Press, 2012.
